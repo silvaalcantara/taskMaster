@@ -2,13 +2,13 @@
 This repository contains a sample project made with the microframework Flask, the application is capable of creating, updating and deleting simple tasks.
 
 
-###Prerequisites
+### Prerequisites
 ```
 Python 3
 ```
 
 
-###Running the project
+### Running the project
 
 1. Clone the project.
 ```
